@@ -16,4 +16,4 @@ Yatheesan Chandreswaran, yatheesanc9@gmail.com
 
 ## License
 
-logTracker is available under the MIT license. See the LICENSE file for more info.
+nlp-sentiment-analysis is available under the MIT license - Yatheesan. See the LICENSE file for more info.
